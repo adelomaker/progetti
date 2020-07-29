@@ -42,7 +42,7 @@ h6 {font-size: 16px;}
 
 
 .s1{
-	background-color:var(--mainColor);
+	background-color:red;/*var(--mainColor);*/
 	border-bottom: 1px solid var(--border-color);
 	overflow=auto;
 }
